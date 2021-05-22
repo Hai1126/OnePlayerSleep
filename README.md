@@ -1,1 +1,1 @@
-#OnePlayerSleep Pocketmine Plugin
+OnePlayerSleep Pocketmine Plugin
