@@ -1,0 +1,5 @@
+name: OnePlayerSleep
+main: Sleep\Sleep
+api: 3.19.2
+version: 1.0.0
+author: SeakHai
